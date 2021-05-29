@@ -1,1 +1,2 @@
-# Dr-Strange-v-s-COVID-19
+g++ main.cpp -o main.out && ./main.out
+
